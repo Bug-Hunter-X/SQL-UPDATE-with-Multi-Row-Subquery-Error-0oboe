@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error: using a subquery that returns multiple rows in an UPDATE statement where a single row is expected.  The `bug.sql` file contains the erroneous query, while `bugSolution.sql` provides the corrected version using a JOIN or correlated subquery.
